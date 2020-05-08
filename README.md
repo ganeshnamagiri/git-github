@@ -1,2 +1,2 @@
 # git-github
-This is for tutorial practise for github.
+This is for tutorial practise of github.
